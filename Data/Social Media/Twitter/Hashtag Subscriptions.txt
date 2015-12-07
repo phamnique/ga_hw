@@ -1,0 +1,34 @@
+Hypothesis:
+1. Lives matter more, in respect to hashtag trending, when an event happens
+2. New #livesmatter variations will occur based on tramatic events
+   1. Human deaths / violence
+   2. Animal deaths cruelty 
+3. #livematter hashtags usage and intent differs from U.S. 
+
+Questions / Objectives:
+1. When are livesmatter hashtag variations used together
+2. Discover positive and negative sentiment percentage each hashtag
+   * discover if sentiment trends exist when multiple livesmatter hashtags are used
+3. How local is livesmatter?
+
+Specific Subscriptions:
+livesmatter
+#africanlivesmatter
+#alllivesmatter (Current Rank: 2)
+#arablivesmatter
+#animallivesmatter (Current Rank: 4)
+#asianlivesmatter
+#blacklivesmatter (Current rank: 1)
+#latinlivesmatter
+#refugeelivesmatter
+#whitelivesmatter (Current rank: 3)
+#womenlivesmatter
+#cutekittens (Current rank: 5)
+
+Current Discovery:
+#unbornlivesmatter
+#copticlivesmatter
+
+Constraints:
+1. This is a small sampling / percentage of public tweets
+2. Geo-location based on stated location or mobile GPS (almost non-existent)
